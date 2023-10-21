@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\MyAssignment\Chapter3-Operators\bin\Debug\net7.0\Chapter3-Operators.exe
+C:\Users\USER\Desktop\MyAssignment\Chapter3-Operators\bin\Debug\net7.0\Chapter3-Operators.deps.json
+C:\Users\USER\Desktop\MyAssignment\Chapter3-Operators\bin\Debug\net7.0\Chapter3-Operators.runtimeconfig.json
+C:\Users\USER\Desktop\MyAssignment\Chapter3-Operators\bin\Debug\net7.0\Chapter3-Operators.dll
+C:\Users\USER\Desktop\MyAssignment\Chapter3-Operators\bin\Debug\net7.0\Chapter3-Operators.pdb
+C:\Users\USER\Desktop\MyAssignment\Chapter3-Operators\obj\Debug\net7.0\Chapter3-Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\MyAssignment\Chapter3-Operators\obj\Debug\net7.0\Chapter3-Operators.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\MyAssignment\Chapter3-Operators\obj\Debug\net7.0\Chapter3-Operators.AssemblyInfo.cs
+C:\Users\USER\Desktop\MyAssignment\Chapter3-Operators\obj\Debug\net7.0\Chapter3-Operators.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\MyAssignment\Chapter3-Operators\obj\Debug\net7.0\Chapter3-Operators.dll
+C:\Users\USER\Desktop\MyAssignment\Chapter3-Operators\obj\Debug\net7.0\refint\Chapter3-Operators.dll
+C:\Users\USER\Desktop\MyAssignment\Chapter3-Operators\obj\Debug\net7.0\Chapter3-Operators.pdb
+C:\Users\USER\Desktop\MyAssignment\Chapter3-Operators\obj\Debug\net7.0\Chapter3-Operators.genruntimeconfig.cache
+C:\Users\USER\Desktop\MyAssignment\Chapter3-Operators\obj\Debug\net7.0\ref\Chapter3-Operators.dll
